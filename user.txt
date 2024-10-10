@@ -1,0 +1,2 @@
+Name: Johnny\nFather's Name: Albert\nReg No: 123456\n
+
